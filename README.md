@@ -10,6 +10,10 @@
 
 - 👯 I’m looking to collaborate on **Solidity and Blockchain**
 
+- 🥅 2022 Goals: Contribute to Open Source projects
+
+- 🔭 I’m currently working on some of  my Personal Projects 😁
+
 - 🎓 Studying in prefinal year of bachelors of technology in Computer Engineering in **Veermata Jijabai Technological Institute,Mumbai.**
 
 
@@ -180,7 +184,7 @@
 <h3 align="center">Connect with me</h3>
 
 <div style="margin-top:10px" align="center">
-  <div>
+<!--   <div>
     <a  href="https://dev.to/example" target="_blank">
       <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
     </a>
@@ -190,9 +194,9 @@
     <a href="https://codepen.io/@example" target="_blank">
       <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
     </a>
-  </div>
+  </div> -->
   <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
+    <a  href="https://www.linkedin.com/in/satish-naikawadi-8558b5192/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
   </div>
