@@ -198,7 +198,7 @@
   <div>
     <a  href="https://www.linkedin.com/in/satish-naikawadi-8558b5192/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
+    </a>&nbsp; <a href="https://www.facebook.com/satishananda.naikawadi.3"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;<a href="https://www.instagram.com/satish_011e/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;<a href="mailto:satishnaikawadi2001@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   </div>
   <div>
   </div>
