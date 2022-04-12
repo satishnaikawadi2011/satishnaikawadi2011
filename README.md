@@ -16,6 +16,7 @@
 
 - 🎓 Studying in prefinal year of bachelors of technology in Computer Engineering in **Veermata Jijabai Technological Institute,Mumbai.**
 
+----
 
 
 <h3 align="center">Languages</h3>
@@ -203,4 +204,10 @@
   <div>
   </div>
 </div>
+
+
+----
+
+
+[![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=satishnaikawadi2011&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
